@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Compliance Framework - Wortell Group</title>
+		<title>Compliance Framework</title>
 	
 		<style>
 
